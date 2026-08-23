@@ -14,6 +14,9 @@ Your pagelets and their state are stored only on your device (and in your device
 Web pages you add are loaded directly by your device using Apple's WebKit; those sites see your requests just as they would in any browser, and their own privacy policies apply to them.
 As the publisher/owner of the app, Jonah has access to Apple's general developer statistics.
 
+EnumURL does not currently support ad blockers, content blockers, or browser extensions of any kind.
+EnumURL makes no guarantees about the privacy of the sites you visit or the activity/actions you perform while using EnumURL; the sites you load are governed by their own privacy policies and practices.
+
 ## Changes to This Privacy Policy
 
 Jonah Y-M and any future associated devs reserve the right to update this Privacy Policy on occasion.

@@ -13,7 +13,7 @@ EnumURL is a deliberate web browser for iOS: it only opens the pages you've expl
 
 ## Privacy Policy
 
-EnumURL does not collect any data. See the full [Privacy Policy](PrivacyPolicy.md).
+EnumURL does not collect any data. Note that EnumURL does not currently support ad blockers, content blockers, or browser extensions, and makes no guarantees about the privacy of the sites you visit or the activity/actions you perform while using it. See the full [Privacy Policy](PrivacyPolicy.md).
 
 ## Support
 

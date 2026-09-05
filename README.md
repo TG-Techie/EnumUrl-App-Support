@@ -9,7 +9,7 @@ EnumURL is a deliberate web browser for iOS: it only opens the pages you've expl
 ## Get the App
 
 - **TestFlight beta:** [testflight.apple.com/join/DE6FKwan](https://testflight.apple.com/join/DE6FKwan)
-- **App Store:** coming soon
+- **App Store:** [apps.apple.com/us/app/enumurl/id6751096254](https://apps.apple.com/us/app/enumurl/id6751096254)
 
 ## Privacy Policy
 
